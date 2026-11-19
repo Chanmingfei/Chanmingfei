@@ -2,9 +2,6 @@
 
 ### Student from Tangshan Normal University
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Chanmingfei&label=Profile views&color=0e75b6&style=flat" alt="Chanmingfei" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Chanmingfei" alt="Chanmingfei" /></a> </p>
 
 - 📫 How to reach me **cmf@tstc.pp.ua**
 
