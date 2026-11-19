@@ -1,4 +1,4 @@
-# Hi 👋, I'm Mingfei Chen
+# Hi 👋, I'm Mingfei Chen(She/Her)
 
 ### Student from Tangshan Normal University
 
