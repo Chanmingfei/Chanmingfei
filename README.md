@@ -8,6 +8,8 @@
 
 - 📝 I regularly write articles on **[https://tstc.pp.ua](https://tstc.pp.ua)**
 
+- 🖥️ Welcome to follow the Baidu Tieba of Tangshan Normal University, thank you, meow. **[Click to jump](https://tieba.baidu.com/f?kw=唐山师范学院)**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/Chanmingfei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Chanmingfei" height="30" width="40" /></a>
