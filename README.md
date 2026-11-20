@@ -1,6 +1,7 @@
 # Hi 👋, I'm Mingfei Chen(She/Her)
 
 ### Student from Tangshan Normal University
+### Moderator of the Baidu Tieba forum for Tangshan Normal University
 
 
 - 📫 How to reach me **cmf@tstc.pp.ua**
